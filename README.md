@@ -1,1 +1,1 @@
-# Machine-Learning-for-Business
+# Machine Learning for Business
